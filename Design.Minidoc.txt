@@ -1,0 +1,29 @@
+General Setup
+Dark Fantasy Adventure survival rpg dungeon-punk "zombie" apocalypse
+
+Minimum viable product:
+
+Combat,
+Magic,
+Movement
+Enemy
+
+Magic:
+1 spell
+1 Classes
+
+Combat:
+Sword
+3 attacks
+2 blocks
+
+Movement:
+running 
+jumping,
+diving
+
+
+
+
+
+
